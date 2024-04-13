@@ -17,7 +17,7 @@
   <li><strong>[Oct. 2023]</strong> Co-organizing the <a href="https://iccv23-wecia.github.io/">ICCV 2023 Workshop on Emotionally and Culturally Intelligent AI (WECIA)</a>.</li>
   <li><strong>[Sep. 2022]</strong>One paper(HR-Talking Face) was accepted at WACV'23.</li>
   <li><strong>[Mar. 2022]</strong> One paper(Artemis 2.0) was accepted at CVPR'22.</li>
-  <li><strong>[Dec. 2021]</strong> One paper(Intelligent Video Editing) was accepted at ICVGIP as on Oral.</li>
+  <li><strong>[Dec. 2021]</strong> One paper(Intelligent Video Editing) was accepted at ICVGIP as an Oral.</li>
 </ul>
 
 <p></p>
