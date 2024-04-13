@@ -19,6 +19,6 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding">Computer Vision and Image Understanding</a></li>
+  <li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding">Computer Vision and Image Understanding (CVIU)</a></li>
   <li><a href="https://www.springer.com/journal/11263">International Journal of Computer Vision (IJCV)</a></li>
 </ul>
