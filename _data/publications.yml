@@ -16,7 +16,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Under Review
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/cletir.png
 
   - title: "Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images"
     authors: Jun Chen, <strong>Faizan Farooq Khan</strong>, Ming Hu, Ammar Sherrif, Zongyuan Ge, Boyang Li, Mohamed Elhoseiny
@@ -27,7 +27,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Under Review
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/lomar.png
 
   - title: "FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Traits Prediction"
     authors: <strong>Faizan Farooq Khan*</strong>, Xiang Li*, Andrew Temple, Mohamed Elhoseiny (*Equal Contribution)
@@ -70,3 +70,9 @@ main:
     pdf: https://arxiv.org/abs/2110.08580
     image: ./assets/img/intel.png
     notes: Oral
+
+  - title: "Generating Dataset For Large-scale 3D Facial Emotion Recognition"
+    authors: <strong>Faizan Farooq Khan</strong>, Syed Zulqarnain Gilani
+    conference: Arxiv Preprint, 2021
+    pdf: https://arxiv.org/abs/2109.08043
+    image: ./assets/img/3dfer.png
