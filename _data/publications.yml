@@ -2,21 +2,71 @@ main:
 
   - title: "AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art"
     authors: <strong>Faizan Farooq Khan*</strong>, Diana Kim*, Divyansh Jha, Youssef Mohamed, Hanna H Chang, Ahmed Elgammal, Luba Elliott, Mohamed Elhoseiny (*Equal Contribution)
-    # conference_short: In Review
     conference:  Arxiv Preprint, 2024
     pdf: https://arxiv.org/abs/2402.02453
     code: https://github.com/faixan-khan/ArtNeuralConstellation
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ai_art_main_fig.png
-    # notes: Under review, TPAMI, 2024
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Training-free Category-Level Text-to-Image Retrieval"
+    authors: <strong>Faizan Farooq Khan</strong>, Vladan Stojnic, Zakaria Laskar, Mohamed Elhoseiny, Giorgos Tolias
+    # conference_short: CVPR
+    conference: In Review, 2024
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Under Review
+    # image: ./assets/img/teaser_example.png
+
+  - title: "Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images"
+    authors: Jun Chen, <strong>Faizan Farooq Khan</strong>, Ming Hu, Ammar Sherrif, Zongyuan Ge, Boyang Li, Mohamed Elhoseiny
+    # conference_short: CVPR
+    conference: In Review, 2024
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Under Review
+    # image: ./assets/img/teaser_example.png
+
+  - title: "FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Traits Prediction"
+    authors: <strong>Faizan Farooq Khan*</strong>, Xiang Li*, Andrew Temple, Mohamed Elhoseiny (*Equal Contribution)
+    conference_short: ICCV
+    conference: ICCV 2023
+    pdf: https://openaccess.thecvf.com//content/ICCV2023/html/Khan_FishNet_A_Large-scale_Dataset_and_Benchmark_for_Fish_Recognition_Detection_ICCV_2023_paper.html
+    code: https://github.com/faixan-khan/FishNet/
+    page: https://fishnet-2023.github.io/
+    image: ./assets/img/fish.png
+
+  - title: "HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models"
+    authors: Eslam Bakr, Xiaoqian Shen*, Pengzhan Sun*, <strong>Faizan Khan*</strong>, Erran Li, Mohamed Elhoseiny (*Equal Contribution)
+    conference_short: ICCV
+    conference: ICCV 2023
+    pdf: https://arxiv.org/abs/2304.05390
+    code: https://github.com/eslambakr/HRS_benchmark
+    page: https://eslambakr.github.io/hrsbench.github.io
+    image: ./assets/img/pub/hrs.png
+  
+  - title: "Towards Generating Ultra-High Resolution Talking-Face Videos with Lip synchronization"
+    authors: Anchit Gupta, Rudrabha Mukhopadhyay, Sindhu Balachandra,<strong>Faizan Farooq Khan</strong>, Vinay P. Namboodiri, C. V. Jawahar
+    conference_short: WACV
+    conference: WACV, 2023
+    pdf: https://openaccess.thecvf.com/content/WACV2023/html/Gupta_Towards_Generating_Ultra-High_Resolution_Talking-Face_Videos_With_Lip_Synchronization_WACV_2023_paper.html
+    image: ./assets/img/hr_face.png
+  
+  - title: "It is Okay to Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning by Contrastive Data Collection"
+    authors: Youssef Moahmed,<strong>Faizan Farooq Khan</strong>, Kilichbek Haydarov, Mohamed Elhoseiny
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: CVPR, 2022
+    page: https://www.artemisdataset-v2.org/
+    pdf: https://arxiv.org/abs/2204.07660
+    code: https://github.com/Vision-CAIR/artemis-v2
+    image: ./assets/img/artemis.png
+
+  - title: "Intelligent Video Editing: Incorporating Modern Talking Face Generation Algorithms in a Video Editor"
+    authors: Anchit Gupta*,<strong>Faizan Farooq Khan*</strong>, Rudrabha Mukhopadhyay, Vinay P. Namboodiri, C. V. Jawahar (*Equal Contribution)
+    conference_short: ICVGIP
+    conference: ICVGIP, 2021
+    pdf: https://arxiv.org/abs/2110.08580
+    image: ./assets/img/intel.png
+    notes: Oral
