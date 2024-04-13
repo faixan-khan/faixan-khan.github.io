@@ -71,8 +71,8 @@ main:
     image: ./assets/img/intel.png
     notes: Oral
 
-  - title: "Generating Dataset For Large-scale 3D Facial Emotion Recognition"
-    authors: <strong>Faizan Farooq Khan</strong>, Syed Zulqarnain Gilani
-    conference: Arxiv Preprint, 2021
-    pdf: https://arxiv.org/abs/2109.08043
-    image: ./assets/img/3dfer.png
+  # - title: "Generating Dataset For Large-scale 3D Facial Emotion Recognition"
+  #   authors: <strong>Faizan Farooq Khan</strong>, Syed Zulqarnain Gilani
+  #   conference: Arxiv Preprint, 2021
+  #   pdf: https://arxiv.org/abs/2109.08043
+  #   image: ./assets/img/3dfer.png
