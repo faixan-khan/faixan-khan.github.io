@@ -1,14 +1,14 @@
 main:
 
-  - title: AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art
-    authors: <strong>Faizan Farooq Khan*</strong>, Diana Kim*, Divyansh Jha,Youssef Mohamed, Hanna H Chang, Ahmed Elgammal, Luba Elliott, Mohamed Elhoseiny (* Equal Contribution)
+  - title: AI Art Neural Constellation: "Revealing the Collective and Contrastive State of AI-Generated and Human Art"
+    authors: <strong>Faizan Farooq Khan</strong>*, Diana Kim*, Divyansh Jha,Youssef Mohamed, Hanna H Chang, Ahmed Elgammal, Luba Elliott, Mohamed Elhoseiny (* Equal Contribution)
     conference_short: In Review
     conference: Under review, TPAMI, 2024.
     pdf: https://arxiv.org/abs/2402.02453
     code: https://github.com/faixan-khan/ArtNeuralConstellation
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/ai_art_main_fig.png
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     notes: Under review
+    image: ./assets/img/ai_art_main_fig.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
