@@ -17,6 +17,8 @@ I am currently a PhD student of Computer Science at [King Abdullah University of
 - **[July. 2023]** Two papers (FishNet, HRS-Bench) were accepted at ICCV’23.
 - **[Oct. 2023]** Co-organizing the [ICCV 2023 Workshop on Emotionally and Culturally Intelligent AI (WECIA)](https://iccv23-wecia.github.io/).
 - **[Aug. 2022]** One paper(HR-Talking Face) was accepted at WACV'23.
+- **[Mar. 2022]** One paper(Artemis 2.0) was accepted at CVPR'22.
+- **[Dec. 2021]** One paper(Intelligent Video Editing) was accepted at ICVGIP as on Oral.
 
 
 {% include_relative _includes/publications.md %}
