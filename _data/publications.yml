@@ -45,7 +45,7 @@ main:
     pdf: https://arxiv.org/abs/2304.05390
     code: https://github.com/eslambakr/HRS_benchmark
     page: https://eslambakr.github.io/hrsbench.github.io
-    image: ./assets/img/pub/hrs.png
+    image: ./assets/img/hrs.png
   
   - title: "Towards Generating Ultra-High Resolution Talking-Face Videos with Lip synchronization"
     authors: Anchit Gupta, Rudrabha Mukhopadhyay, Sindhu Balachandra,<strong>Faizan Farooq Khan</strong>, Vinay P. Namboodiri, C. V. Jawahar
