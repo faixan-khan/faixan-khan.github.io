@@ -18,6 +18,17 @@ main:
     notes: Under Review
     image: ./assets/img/cletir.png
 
+  - title: "Sketch2Stitch: GANs for Abstract Sketch-Based Dress Synthesis"
+    authors: <strong>Faizan Farooq Khan</strong>, Davide Morelli, Eslam Bakr, Marcella Cornia, Rita Cucchiara, Mohamed Elhoseiny
+    # conference_short: CVPR
+    conference: In Review, 2024
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Under Review
+    image: ./assets/img/dress.png
+
   - title: "Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images"
     authors: Jun Chen, <strong>Faizan Farooq Khan</strong>, Ming Hu, Ammar Sherrif, Zongyuan Ge, Boyang Li, Mohamed Elhoseiny
     # conference_short: CVPR
