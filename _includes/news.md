@@ -12,6 +12,7 @@
 
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
+  <li><strong>[Oct. 2024]</strong> Two papers (EmoTalker and LoMaR) accepted at ACCV'24 and WACV'25.</li>
   <li><strong>[May. 2024]</strong> Started my internship at <a href="https://research.adobe.com/">Adobe Research</a> with <a href='https://josephkj.in/'>Joseph K J</a>.</li>
   <li><strong>[Apr. 2024]</strong> Co-organizing the <a href="https://cv4e.netlify.app/">ECCV24 Workshop on Computer Vision For Ecology(CV4E)</a>.</li>
   <li><strong>[Apr. 2024]</strong> One paper (AI Art Neural Constellation) was accepted at CVPRW'24.</li>
