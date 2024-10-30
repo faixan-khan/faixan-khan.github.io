@@ -31,9 +31,9 @@ main:
     image: ./assets/img/dress.png
 
   - title: "Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images"
-    authors: Jun Chen, <strong>Faizan Farooq Khan</strong>, Ming Hu, Ammar Sherrif, Zongyuan Ge, Boyang Li, Mohamed Elhoseiny
-    # conference_short: CVPR
-    conference: In Review, 2024
+    authors: Jun Chen*, <strong>Faizan Farooq Khan*</strong>, Ming Hu, Ammar Sherrif, Zongyuan Ge, Boyang Li, Mohamed Elhoseiny
+    conference_short: WACV
+    conference: WACV 2025
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
