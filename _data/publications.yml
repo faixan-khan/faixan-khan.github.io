@@ -34,9 +34,9 @@ main:
     authors: Jun Chen*, <strong>Faizan Farooq Khan*</strong>, Ming Hu, Ammar Sherrif, Zongyuan Ge, Boyang Li, Mohamed Elhoseiny
     conference_short: WACV
     conference: WACV 2025
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://openaccess.thecvf.com/content/WACV2025/papers/Chen_Local_Masked_Reconstruction_for_Efficient_Self-Supervised_Learning_on_High-Resolution_Images_WACV_2025_paper.pdf
+    code: https://github.com/junchen14/LoMaR
+    page: https://openaccess.thecvf.com/content/WACV2025/html/Chen_Local_Masked_Reconstruction_for_Efficient_Self-Supervised_Learning_on_High-Resolution_Images_WACV_2025_paper.html
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/lomar.png
 
