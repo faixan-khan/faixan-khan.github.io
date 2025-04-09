@@ -1,17 +1,31 @@
 main:
 
-  - title: "AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art"
-    authors: <strong>Faizan Farooq Khan*</strong>, Diana Kim*, Divyansh Jha, Youssef Mohamed, Hanna H Chang, Ahmed Elgammal, Luba Elliott, Mohamed Elhoseiny (*Equal Contribution)
-    conference_short: CVPRW
-    conference:  CVPRW, 2024
-    pdf: https://arxiv.org/abs/2402.02453
-    code: https://github.com/faixan-khan/ArtNeuralConstellation
-    image: ./assets/img/ai_art_main_fig.png
+  - title: "Open-vocabulary Species Recognition with RAG-Assisted Large Multi-Modal Models"
+    authors: <strong>Faizan Farooq Khan</strong>, Jun Chen, Youssef Mohamed, Chun-Mei Feng, Mohamed Elhoseiny
+    # conference_short: CVPR
+    conference: In Review, 2025
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Under Review
+    # image: ./assets/img/cletir.png
 
-  - title: "Training-free Category-Level Text-to-Image Retrieval"
+  - title: "Step-by-step Layered Design Generation"
+    authors: <strong>Faizan Farooq Khan</strong>, Joseph KJ, Koustava Goswami, Mohamed Elhoseiny, Balaji Vasan Srinivasan
+    # conference_short: CVPR
+    conference: In Review, 2025
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Under Review
+    # image: ./assets/img/cletir.png
+
+  - title: "Category-level Text-to-Image Retrieval Improved: Bridging the Domain Gap with Diffusion Models and Vision Encoders"
     authors: <strong>Faizan Farooq Khan</strong>, Vladan Stojnic, Zakaria Laskar, Mohamed Elhoseiny, Giorgos Tolias
     # conference_short: CVPR
-    conference: In Review, 2024
+    conference: In Review, 2025
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -19,16 +33,25 @@ main:
     notes: Under Review
     image: ./assets/img/cletir.png
 
-  - title: "Sketch2Stitch: GANs for Abstract Sketch-Based Dress Synthesis"
-    authors: <strong>Faizan Farooq Khan</strong>, Davide Morelli, Eslam Bakr, Marcella Cornia, Rita Cucchiara, Mohamed Elhoseiny
-    # conference_short: CVPR
-    conference: In Review, 2024
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Under Review
-    image: ./assets/img/dress.png
+  # - title: "Sketch2Stitch: GANs for Abstract Sketch-Based Dress Synthesis"
+  #   authors: <strong>Faizan Farooq Khan</strong>, Davide Morelli, Eslam Bakr, Marcella Cornia, Rita Cucchiara, Mohamed Elhoseiny
+  #   # conference_short: CVPR
+  #   conference: In Review, 2024
+  #   # pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Under Review
+  #   image: ./assets/img/dress.png
+
+
+  - title: "AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art"
+    authors: <strong>Faizan Farooq Khan*</strong>, Diana Kim*, Divyansh Jha, Youssef Mohamed, Hanna H Chang, Ahmed Elgammal, Luba Elliott, Mohamed Elhoseiny (*Equal Contribution)
+    conference_short: CVPRW
+    conference:  CVPRW, 2024
+    pdf: https://arxiv.org/abs/2402.02453
+    code: https://github.com/faixan-khan/ArtNeuralConstellation
+    image: ./assets/img/ai_art_main_fig.png
 
   - title: "Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images"
     authors: Jun Chen*, <strong>Faizan Farooq Khan*</strong>, Ming Hu, Ammar Sherrif, Zongyuan Ge, Boyang Li, Mohamed Elhoseiny
