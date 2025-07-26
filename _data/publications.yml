@@ -24,13 +24,13 @@ main:
 
   - title: "Category-level Text-to-Image Retrieval Improved: Bridging the Domain Gap with Diffusion Models and Vision Encoders"
     authors: <strong>Faizan Farooq Khan</strong>, Vladan Stojnic, Zakaria Laskar, Mohamed Elhoseiny, Giorgos Tolias
-    # conference_short: CVPR
-    conference: In Review, 2025
+    conference_short: BMVC
+    conference: BMVC, 2025
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Under Review
+    # notes: Under Review
     image: ./assets/img/cletir.png
 
   # - title: "Sketch2Stitch: GANs for Abstract Sketch-Based Dress Synthesis"
