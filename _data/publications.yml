@@ -26,8 +26,8 @@ main:
     authors: <strong>Faizan Farooq Khan</strong>, Vladan Stojnic, Zakaria Laskar, Mohamed Elhoseiny, Giorgos Tolias
     conference_short: BMVC
     conference: BMVC, 2025
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    pdf: https://arxiv.org/abs/2509.00177v1
+    code: https://github.com/faixan-khan/cletir 
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Under Review
