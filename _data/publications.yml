@@ -1,14 +1,14 @@
 main:
 
-  - title: "Open-vocabulary Species Recognition with RAG-Assisted Large Multi-Modal Models"
+  - title: "Neural Catalog: Scaling Species Recognition with Catalog of Life-Augmented Generation"
     authors: <strong>Faizan Farooq Khan</strong>, Jun Chen, Youssef Mohamed, Chun-Mei Feng, Mohamed Elhoseiny
     # conference_short: CVPR
-    conference: In Review, 2025
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    conference: Arxiv, 2025
+    pdf: https://arxiv.org/abs/2505.05635
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Under Review
+    # notes: Under Review
     image: ./assets/img/teaser_rag.png
 
   - title: "Step-by-step Layered Design Generation"
