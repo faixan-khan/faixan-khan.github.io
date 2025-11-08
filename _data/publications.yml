@@ -13,13 +13,13 @@ main:
 
   - title: "Step-by-step Layered Design Generation"
     authors: <strong>Faizan Farooq Khan</strong>, Joseph KJ, Koustava Goswami, Mohamed Elhoseiny, Balaji Vasan Srinivasan
-    # conference_short: CVPR
-    conference: In Review, 2025
+    conference_short: AAAI
+    conference: AAAI, 2026
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Under Review
+    # notes: Under Review
     image: ./assets/img/teaser_design.png
 
   - title: "Category-level Text-to-Image Retrieval Improved: Bridging the Domain Gap with Diffusion Models and Vision Encoders"
