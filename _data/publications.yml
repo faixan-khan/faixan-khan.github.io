@@ -5,7 +5,7 @@ main:
     # conference_short: CVPR
     conference: Arxiv, 2025
     pdf: https://arxiv.org/abs/2505.05635
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/faixan-khan/vr-rag
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Under Review
@@ -15,7 +15,7 @@ main:
     authors: <strong>Faizan Farooq Khan</strong>, Joseph KJ, Koustava Goswami, Mohamed Elhoseiny, Balaji Vasan Srinivasan
     conference_short: AAAI
     conference: AAAI, 2026
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/abs/2512.03335
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
